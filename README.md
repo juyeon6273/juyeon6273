@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Juyeon Lee
 
 🎓 Computer Science and Engineering student at Sungkyunkwan University
+##
 🔍 **Natural Language Processing**, **Machine Learning**, and **Full-Stack Development**
 
 🚀 Check out my portfolio to learn more about my work:  
