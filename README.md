@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there 👋 I'm Juyeon Lee
 
-<!--
-**juyeon6273/juyeon6273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering student at Sungkyunkwan University
+🔍 **Natural Language Processing**, **Machine Learning**, and **Full-Stack Development**
 
-Here are some ideas to get you started:
+🚀 Check out my portfolio to learn more about my work:  
+👉 [https://juyeon6273.github.io/portfolio/](https://juyeon6273.github.io/portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+**Languages**: C/C++, Python, Java, SQL, HTML/CSS  
+**Frameworks**: Flask, React, Node.js, FastAPI  
+**Tools**: Git, Docker, REST API, PyCharm, Figma, Linux
+
+---
+
+### 🌱 Experience Highlights
+
+- **Software Engineer @ Mechasolution**  
+  Co-authored an IEEE paper on a transformer-based demand forecasting model.  
+  *(Apr 2023 – Feb 2024)*
+
+---
+
+### 🏆 Awards & Projects
+
+- 🥇 **Excellence Prize** – Co-Deep Learning Project  
+- 📊 **Satellite Image Classification** (Accuracy improved to 97.16%)  
+- 🧠 **KoBERT-based Clinical Text Classifier**  
+- 💬 **Chatbot for Financial Literacy** with visual explanations
+
+---
+
+Feel free to connect or explore more of my work! 😊
+
