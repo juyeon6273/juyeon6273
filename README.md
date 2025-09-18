@@ -12,8 +12,8 @@
 ### 🛠️ Technical Skills
 
 **Languages**: C/C++, Python, Java, SQL, HTML/CSS  
-**Frameworks**: Flask, React, Node.js, FastAPI  
-**Tools**: Git, Docker, REST API, PyCharm, Figma, Linux
+**Frameworks**: TensorFlow, PyTorch, Scikit-learn, Flask, React, Node.js, FastAPI 
+**Tools**: Git, Docker, Visual Studio, PyCharm, Eclipse, REST API, Pandas, NumPy, Figma, Linux
 
 ---
 
