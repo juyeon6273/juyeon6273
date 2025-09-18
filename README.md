@@ -19,7 +19,7 @@
 
 ### 🌱 Experience Highlights
 
-- **Software Engineer @ Mechasolution** *(Apr 2023 – Feb 2024)*  
+- **Research Co-op @ Mechasolution** *(Apr 2023 – Feb 2024)*  
   - Co-authored an IEEE paper on a **transformer-based demand forecasting model**  
   - *Topic Modeling-Based Framework for Extracting Marketing Information From E-Commerce Reviews*  
     [Link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10335184)
